@@ -1,12 +1,8 @@
 # Project for petrol station client in NURE
 
 ## Backend
-- PostgreSQL
-- Rust
-    - Axum + Tower
-    - Sea-Orm
-
+- C#
 ## IoT
-## Frontend
+- React.js
 ## Mobile
 - C#
