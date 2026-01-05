@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GasStationMobile.Views.StationDetailPage"
+             Title="Station">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20">
+                <Label Text="Station" HorizontalOptions="Center" FontSize="24" FontAttributes="Bold" TextColor="Black" />
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Station №" FontSize="18" />
+                    <Label Text="{Binding StationId}" FontSize="18" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Address: " FontSize="18" />
+                    <Label Text="{Binding City}" FontSize="16" />
+                    <Label Text=", " FontSize="18" />
+                    <Label Text="{Binding Address}" FontSize="16"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Description: " FontSize="18" />
+                    <Label Text="{Binding Description}" FontSize="18"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Equipment list: " FontSize="18" />
+                    <Label Text="{Binding EquipmentList}" FontSize="18" />
+                </StackLayout>
+                
+                <Label Text="Pumps" HorizontalOptions="Center" Margin="20, 0, 20, 0" FontSize="24" FontAttributes="Bold" TextColor="Black" />
+
+                <ListView ItemsSource="{Binding Pumps}" HasUnevenRows="True">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Padding="10">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Pump №" FontSize="18" />
+                                        <Label Text="{Binding Number}" FontSize="18" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Gas Count: " TextColor="Gray" FontSize="16" />
+                                        <Label Text="{Binding GasCount}" FontSize="16" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Gas type: " TextColor="Gray" FontSize="16" />
+                                        <Label Text="{Binding GasType.Name}" FontSize="16" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Cost: " TextColor="Gray" FontSize="16" />
+                                        <Label Text="{Binding Cost}" FontSize="16" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

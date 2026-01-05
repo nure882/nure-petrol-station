@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="GasStationMobile.Views.CouponsPage" Title="Coupons">
+    <TabbedPage.Children>
+        <ContentPage Title="Unused">
+            <ContentPage.Content>
+                <ListView x:Name="unusedCouponsListView" HasUnevenRows="True">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Padding="10">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Coupon №" FontSize="18" />
+                                        <Label Text="{Binding CouponId}" FontSize="18" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Gas Type: " TextColor="Gray" FontSize="16" />
+                                        <Label Text="{Binding GasType.Name}" FontSize="16" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Gas count: " TextColor="Gray" FontSize="16" />
+                                        <Label Text="{Binding Liters}" FontSize="16" />
+                                        <Label Text="L/m³" FontSize="16" />
+                                    </StackLayout>
+
+                                    <Label Text="{Binding ExpirationDate, StringFormat='Expiration date: {00:dd-MM-yyyy}'}" TextColor="Gray" FontSize="16" HorizontalOptions="End" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ContentPage.Content>
+        </ContentPage>
+
+        <ContentPage Title="Used">
+            <ContentPage.Content>
+                <ListView x:Name="usedCouponsListView" HasUnevenRows="True">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Padding="10">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Coupon №" FontSize="18" />
+                                        <Label Text="{Binding CouponId}" FontSize="18" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Gas Type: " TextColor="Gray" FontSize="16" />
+                                        <Label Text="{Binding GasType.Name}" FontSize="16" />
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Gas count: " TextColor="Gray" FontSize="16" />
+                                        <Label Text="{Binding Liters}" FontSize="16" />
+                                        <Label Text="L/m³" FontSize="16" />
+                                    </StackLayout>
+
+                                    <Label Text="{Binding UseDate, StringFormat='Used: {00:dd-MM-yyyy}'}" TextColor="Gray" FontSize="16" HorizontalOptions="End" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ContentPage.Content>
+        </ContentPage>
+    </TabbedPage.Children>
+</TabbedPage>

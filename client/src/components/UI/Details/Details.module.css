@@ -1,0 +1,38 @@
+.item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.item span:first-child {
+    font-weight: 600;
+}
+
+.item span {
+    display: flex;
+}
+
+.title {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.table {
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.table__title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.controll {
+    display: flex;
+    gap: 20px;
+}

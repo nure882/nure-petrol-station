@@ -1,0 +1,30 @@
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\bin\Debug\net5.0\Logic.deps.json
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\bin\Debug\net5.0\Logic.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\bin\Debug\net5.0\ref\Logic.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\bin\Debug\net5.0\Logic.pdb
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\bin\Debug\net5.0\Repositories.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\bin\Debug\net5.0\Repositories.pdb
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.csproj.AssemblyReference.cache
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.AssemblyInfoInputs.cache
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.AssemblyInfo.cs
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.csproj.CoreCompileInputs.cache
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.csproj.CopyComplete
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\ref\Logic.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Logic\obj\Debug\net5.0\Logic.pdb
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\bin\Debug\net5.0\Logic.deps.json
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\bin\Debug\net5.0\Logic.dll
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\bin\Debug\net5.0\Logic.pdb
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\bin\Debug\net5.0\Repositories.dll
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\bin\Debug\net5.0\Repositories.pdb
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.csproj.AssemblyReference.cache
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.AssemblyInfoInputs.cache
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.AssemblyInfo.cs
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.csproj.CoreCompileInputs.cache
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.csproj.CopyComplete
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.dll
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\ref\Logic.dll
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\obj\Debug\net5.0\Logic.pdb
+D:\University\5_semestr\Atark\project\server\GasStation\Logic\bin\Debug\net5.0\ref\Logic.dll

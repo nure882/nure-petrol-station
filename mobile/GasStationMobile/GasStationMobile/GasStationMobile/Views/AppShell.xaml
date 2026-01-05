@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:GasStationMobile.Views"
+       x:Class="GasStationMobile.Views.AppShell">
+
+        <FlyoutItem Title="My account">
+        <ShellContent Route="MyAccountRoute">
+            <local:MyAccountPage />
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Coupouns">
+        <ShellContent Route="CouponsRoute">
+            <local:CouponsPage />
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Stations">
+        <ShellContent Route="StationsRoute">
+            <local:StationsPage />
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="About company">
+        <ShellContent Route="AboutRoute">
+            <local:AboutPage />
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem>
+    </FlyoutItem>
+
+    <MenuItem Text="Logout" Clicked="OnLogoutClicked" />
+
+</Shell>

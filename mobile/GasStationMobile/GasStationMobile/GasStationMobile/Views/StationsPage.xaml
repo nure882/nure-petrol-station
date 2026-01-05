@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Stations"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GasStationMobile.Views.StationsPage">
+    <ContentPage.Content>
+        <ListView x:Name="stationsListView" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Station №" FontSize="18" />
+                                <Label Text="{Binding StationId}" FontSize="18" />
+                            </StackLayout>
+
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="City: " TextColor="Gray" FontSize="16" />
+                                <Label Text="{Binding City}" FontSize="16" />
+                            </StackLayout>
+
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Address: " TextColor="Gray" FontSize="16" />
+                                <Label Text="{Binding Address}" FontSize="16" />
+                            </StackLayout>
+                            <Button Text="Full info" Clicked="OpenButtonClicked" CommandParameter="{Binding StationId}"></Button>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

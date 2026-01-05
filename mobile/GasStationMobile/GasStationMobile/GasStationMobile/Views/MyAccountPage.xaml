@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GasStationMobile.Views.MyAccountPage" Title="My profile">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Email:" />
+                <Label Text="{Binding Email}" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Name:" />
+                <Label Text="{Binding Name}" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Surname:" />
+                <Label Text="{Binding Surname}" />
+            </StackLayout>
+
+            <Label Text="{Binding CreateDate, StringFormat='Create date: {00:dd-MM-yyyy}'}" />
+
+            <Label Text="{Binding Birthday, StringFormat='Birthday date: {00:dd-MM-yyyy}'}" />
+
+            <Button Text="Update profile" Clicked="EditProfileButton_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

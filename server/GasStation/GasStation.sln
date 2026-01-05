@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStation", "GasStation\GasStation.csproj", "{7DE945B9-8DCF-42D7-8056-3616569CCDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{79A5E10D-DCD7-4001-A507-F36423254FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{6D96A387-DE7D-4009-A4D9-92035786C3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE945B9-8DCF-42D7-8056-3616569CCDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE945B9-8DCF-42D7-8056-3616569CCDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE945B9-8DCF-42D7-8056-3616569CCDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE945B9-8DCF-42D7-8056-3616569CCDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A5E10D-DCD7-4001-A507-F36423254FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A5E10D-DCD7-4001-A507-F36423254FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A5E10D-DCD7-4001-A507-F36423254FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A5E10D-DCD7-4001-A507-F36423254FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D96A387-DE7D-4009-A4D9-92035786C3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D96A387-DE7D-4009-A4D9-92035786C3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D96A387-DE7D-4009-A4D9-92035786C3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D96A387-DE7D-4009-A4D9-92035786C3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9033DAD4-A35F-4417-91F5-B4B587CE26E5}
+	EndGlobalSection
+EndGlobal

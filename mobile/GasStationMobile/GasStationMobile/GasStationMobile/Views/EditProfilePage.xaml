@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GasStationMobile.Views.EditProfilePage" Title="Update profile">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Name" x:Name="NameEntry"/>
+            <Entry Placeholder="Surname" x:Name="SurnameEntry"/>
+            <DatePicker x:Name="BirthdayEntry"></DatePicker>
+            <Entry Placeholder="Password" IsPassword="True" x:Name="PasswordEntry"/>
+            <Button Text="Show password" x:Name="ShowPasswordButton" Clicked="ShowPasswordButton_Clicked" />
+            <Button Text="Update" Clicked="OnUpdateClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

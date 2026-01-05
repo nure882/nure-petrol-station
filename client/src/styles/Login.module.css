@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    min-width: 300px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.label {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px solid var(--light-gray-color);
+}
+
+.form {
+    padding: 10px;
+}

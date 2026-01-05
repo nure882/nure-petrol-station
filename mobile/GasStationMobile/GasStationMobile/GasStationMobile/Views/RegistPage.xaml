@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GasStationMobile.Views.RegistPage"
+             Title="Registration">
+    
+    <StackLayout>
+        <Entry Placeholder="Email" Text="{Binding RegistViewModel.Email}"/>
+        <Entry Placeholder="Name" Text="{Binding RegistViewModel.Name}"/>
+        <Entry Placeholder="Surname" Text="{Binding RegistViewModel.Surname}"/>
+        <DatePicker Date="{Binding RegistViewModel.Birthday}"></DatePicker>
+        <Entry Placeholder="Password" IsPassword="True" Text="{Binding RegistViewModel.Password}"/>
+        <Button Text="Registration" Clicked="OnRegistrationClicked" />
+    </StackLayout>
+</ContentPage>

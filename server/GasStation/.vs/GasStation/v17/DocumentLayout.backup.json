@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\gasstation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|solutionrelative:gasstation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\logic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|solutionrelative:logic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\gasstation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|solutionrelative:gasstation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\logic\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|solutionrelative:logic\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\logic\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|solutionrelative:logic\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\logic\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|solutionrelative:logic\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\logic\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96A387-DE7D-4009-A4D9-92035786C3BE}|Logic\\Logic.csproj|solutionrelative:logic\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\gasstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|solutionrelative:gasstation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\gasstation\\admininitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE945B9-8DCF-42D7-8056-3616569CCDF7}|GasStation\\GasStation.csproj|solutionrelative:gasstation\\admininitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\models\\gastype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\gastype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\models\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|c:\\users\\voop1x\\downloads\\project (2)\\project\\server\\gasstation\\repositories\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A5E10D-DCD7-4001-A507-F36423254FA8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Logic\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Logic\\Interfaces\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Logic\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Services\\JwtService.cs",
+              "RelativeToolTip": "Logic\\Services\\JwtService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Logic\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Logic\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Logic\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Services\\AuthService.cs",
+              "RelativeToolTip": "Logic\\Services\\AuthService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GasStation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GasStation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\Startup.cs",
+              "RelativeDocumentMoniker": "GasStation\\Startup.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\Startup.cs",
+              "RelativeToolTip": "GasStation\\Startup.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\Program.cs",
+              "RelativeDocumentMoniker": "GasStation\\Program.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\Program.cs",
+              "RelativeToolTip": "GasStation\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Coupon.cs",
+              "RelativeToolTip": "Repositories\\Models\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Models\\AuthResult.cs",
+              "RelativeDocumentMoniker": "Logic\\Models\\AuthResult.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Logic\\Models\\AuthResult.cs",
+              "RelativeToolTip": "Logic\\Models\\AuthResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Customer.cs",
+              "RelativeToolTip": "Repositories\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pump.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Pump.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Pump.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Pump.cs",
+              "RelativeToolTip": "Repositories\\Models\\Pump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GasType.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\GasType.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\GasType.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\GasType.cs",
+              "RelativeToolTip": "Repositories\\Models\\GasType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Station.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Station.cs",
+              "RelativeToolTip": "Repositories\\Models\\Station.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\Admin.cs",
+              "RelativeToolTip": "Repositories\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\AppContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppContext.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\AppContext.cs",
+              "RelativeToolTip": "Repositories\\AppContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAhwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\Repositories\\Models\\User.cs",
+              "RelativeToolTip": "Repositories\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\AdminInitializer.cs",
+              "RelativeDocumentMoniker": "GasStation\\AdminInitializer.cs",
+              "ToolTip": "C:\\Users\\voop1x\\Downloads\\project (2)\\project\\server\\GasStation\\GasStation\\AdminInitializer.cs",
+              "RelativeToolTip": "GasStation\\AdminInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:23:28.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

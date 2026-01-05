@@ -1,0 +1,45 @@
+@import '../../../styles/var.css';
+
+.container {
+    background-color: var(--main-color);
+}
+
+.content {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+    font-size: 16px;
+    justify-content: space-between;
+}
+
+.menu .item:first-child {
+    font-weight: 600;
+}
+
+.item {
+    color: white;
+    cursor: pointer;
+}
+
+.item:hover {
+    opacity: .8;
+}
+
+.menu__filling {
+    display: flex;
+    gap: 20px;
+}
+
+.menu__user::before{
+    display: inline-block;
+    content: "Authorized: ";
+    color: white;
+}
+.menu__user {
+    color: rgb(159, 218, 159);
+}

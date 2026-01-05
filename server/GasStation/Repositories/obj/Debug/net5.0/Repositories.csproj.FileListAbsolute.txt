@@ -1,0 +1,24 @@
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\bin\Debug\net5.0\Repositories.deps.json
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\bin\Debug\net5.0\Repositories.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\bin\Debug\net5.0\ref\Repositories.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\bin\Debug\net5.0\Repositories.pdb
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+D:\University\5 семестр\АтаРК\проект\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.pdb
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\bin\Debug\net5.0\Repositories.deps.json
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\bin\Debug\net5.0\Repositories.dll
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\bin\Debug\net5.0\Repositories.pdb
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.dll
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\ref\Repositories.dll
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\obj\Debug\net5.0\Repositories.pdb
+D:\University\5_semestr\Atark\project\server\GasStation\Repositories\bin\Debug\net5.0\ref\Repositories.dll
